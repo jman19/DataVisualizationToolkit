@@ -53,5 +53,5 @@ This module allows user to plot animated dynamic points
 
 <img src="https://i.imgur.com/6prfnvr.jpg" width="400" height="400"> <img src="https://i.imgur.com/UPKUPZw.jpg" width="400" height="400">
 
-#### DataVisualizationToolkit running on HoloLens
+## DataVisualizationToolkit running on HoloLens
 [![](https://i.imgur.com/rOYIUvd.png)](http://www.youtube.com/watch?v=XfnRXGWA0xU "")
